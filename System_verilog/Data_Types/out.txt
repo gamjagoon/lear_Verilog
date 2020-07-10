@@ -1,0 +1,2 @@
+My String = This is a original string
+My String = Kim min jae
