@@ -3,3 +3,6 @@ a.out
 *_out
 test_*
 test
+Makefile
+*.core
+scratch
