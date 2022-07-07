@@ -17,4 +17,5 @@ always @(posedge clk or negedge nRST) begin
       out <= out - 4'b0001;
   end else begin end
 end
+
 endmodule
