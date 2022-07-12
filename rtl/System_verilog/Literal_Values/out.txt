@@ -1,4 +1,0 @@
-@ 0ns a = 
-@ 0ns a = Hello Minjae
-@ 1ns a = Over writing old string
-@ 2ns a = This is multi line comment \012 and this is second line

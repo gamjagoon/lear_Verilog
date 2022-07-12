@@ -1,3 +1,4 @@
+`include "./rtl/FSM/moor.v"
 module tb();
 
 // var or const
